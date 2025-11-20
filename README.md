@@ -1,2 +1,1 @@
-# tetdir-privacy
-placeholder for tiktok privcy
+tiktok-developers-site-verification=8Mvl5gnciXnza3BCzRitLiBYyi6ZwiPs
